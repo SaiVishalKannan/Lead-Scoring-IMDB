@@ -17,11 +17,14 @@ Dataset Insight: Real-world data provided by the parent company forms the founda
 ### Prerequisites
 Before you begin, ensure you have the following installed:
 
+Clone the Repository: github.com/SaiVishalKannan/Lead-Scoring-IMDB.git
+
 SQL Database: You can use MySQL, PostgreSQL, or any SQL-based database management system.
 
 SQL Client: Tools such as MySQL Workbench, pgAdmin, or any database client of your choice for running SQL queries.
 
 Dataset: The movie dataset used for this project (provided in the repository).
+
 
 # Purpose 
 This repository leverages SQL to shape data and drives movie production companies to predict box-office hits and make strategic decisions accordingly. 
